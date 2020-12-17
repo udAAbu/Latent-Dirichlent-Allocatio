@@ -1,5 +1,4 @@
 # Latent-Dirichlent-Allocatio
-Topic modelling using LDA
 
 **Latent Dirichlet Allocation**, also known as LDA, is a popular topic modeling technique. As the name indicated, it helps to find latent topics in our document corpus. These topics are implicit and usually represented by some keywords. After finding these topics, LDA can help to classify documents to a particular topic.
 
