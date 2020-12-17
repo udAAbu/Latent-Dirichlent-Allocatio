@@ -6,6 +6,6 @@ LDA builds a **topic per document model** and **words per topic model**. In the 
 
 Thanks to the excellent implementation of LDA in Gensim package, this notebook explores the applicaiton of LDA on the 20-Newsgroups dataset. This dataset contains about 11000 newsgroup posts from 20 different topics. 
 
-References:
+**References**:
 1. https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 2. Udacity: Natural Language Processing
